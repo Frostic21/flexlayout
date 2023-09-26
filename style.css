@@ -89,4 +89,14 @@
 }
 .example6 .child{
     flex: 1;
+    margin: 5px;
+}
+.blue{
+    background-color: blue;
+}
+.lightblue{
+    background-color: lightblue;
+}
+.pgreen{
+    background-color: darkseagreen;
 }
